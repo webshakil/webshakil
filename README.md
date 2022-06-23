@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Shkail Kamrn</h1>
+<h1 align="center">Hi 👋, I'm Shakil Kamran</h1>
 <h3 align="center">I am a full stack(MERN Stack) web application developer with Typescript, Redux-Toolkit and GrapQL knowledgeh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webshakil" /> </p>
