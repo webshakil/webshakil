@@ -10,7 +10,7 @@
 - 🔭 I’m currently working as a Software Engineer at **Digital Life**
 
 - 🌱 I’m currently learning **GraphQL and Angular**
-<h1 align="center">Portfolio: (https://stellar-cocada-afbf7e.netlify.app) {:target="_blank" rel="noopener"}/</h1>
+<h1 align="center">Portfolio: https://stellar-cocada-afbf7e.netlify.app/</h1>
 - 👨‍💻 Some of my projects are available at 
 [ 
 MERN Memories https://laughing-lamarr-75a52c.netlify.app 
