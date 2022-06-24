@@ -1,8 +1,28 @@
+<h1 align="center">Hi 👋, I'm Shkail Kamrn</h1>
+<h3 align="center">I am a full stack(MERN Stack) web application developer with Typescript, Redux-Toolkit and GrapQL knowledgeh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webshakil" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webshakil" alt="webshakil" /></a> </p>
 
-<h1 align="center">Hi 👋, I'm Shakil Kamran</h1>
-<h3 align="center">I am a full stack(MERN Stack) web application developer with Typescript, Redux-Toolkit and GrapQL knowledge</h3>
+<p align="left"> <a href="https://twitter.com/shakilkamran" target="blank"><img src="https://img.shields.io/twitter/follow/shakilkamran?logo=twitter&style=for-the-badge" alt="shakilkamran" /></a> </p>
+
+- 🔭 I’m currently working on Software Engineer **Digital Life**
+
+- 🌱 I’m currently learning **GraphQL and Angular**
+
+- 👨‍💻 All of my projects are available at [Portfolio: https://stellar-cocada-afbf7e.netlify.app/ MERN Memories https://laughing-lamarr-75a52c.netlify.app MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ Counter-app by React JS https://keen-aryabhata-a48ca8.netlify.app/ Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/](Portfolio: https://stellar-cocada-afbf7e.netlify.app/ MERN Memories https://laughing-lamarr-75a52c.netlify.app MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ Counter-app by React JS https://keen-aryabhata-a48ca8.netlify.app/ Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/)
+
+- 📝 I regularly write articles on [https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A](https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A)
+
+- 💬 Ask me about **Javascript Based all modern Technologies**
+
+- 📫 How to reach me **chumkysk@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/shakilkamrandev/](https://www.linkedin.com/in/shakilkamrandev/)
+
+- ⚡ My cup of Tea **Programming and Travelling**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webshakil" /> </p>
 
@@ -29,3 +49,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webshakil&show_icons=true&locale=en" alt="webshakil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webshakil&" alt="webshakil" /></p>
+
+
+
+
+
+
+
+
