@@ -7,11 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/shakilkamran" target="blank"><img src="https://img.shields.io/twitter/follow/shakilkamran?logo=twitter&style=for-the-badge" alt="shakilkamran" /></a> </p>
 
-- 🔭 I’m currently working on Software Engineer **Digital Life**
+- 🔭 I’m currently working as a Software Engineer at **Digital Life**
 
 - 🌱 I’m currently learning **GraphQL and Angular**
 
-- 👨‍💻 All of my projects are available at [Portfolio: https://stellar-cocada-afbf7e.netlify.app/ MERN Memories https://laughing-lamarr-75a52c.netlify.app MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ Counter-app by React JS https://keen-aryabhata-a48ca8.netlify.app/ Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/](Portfolio: https://stellar-cocada-afbf7e.netlify.app/ MERN Memories https://laughing-lamarr-75a52c.netlify.app MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ Counter-app by React JS https://keen-aryabhata-a48ca8.netlify.app/ Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/)
+- 👨‍💻 All of my projects are available at 
+[Portfolio: https://stellar-cocada-afbf7e.netlify.app/ 
+MERN Memories https://laughing-lamarr-75a52c.netlify.app 
+MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ 
+MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ 
+Counter-app by React JS https://keen-aryabhata-a48ca8.netlify.app/ 
+Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/]
 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A](https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A)
 
