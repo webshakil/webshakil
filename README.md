@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shkail Kamrn</h1>
+<h1 align="center">Hi 👋, I'm Shakil Kamrn</h1>
 <h3 align="center">I am a full stack(MERN Stack) web application developer with Typescript, Redux-Toolkit and GrapQL knowledgeh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webshakil" /> </p>
@@ -11,13 +11,7 @@
 
 - 🌱 I’m currently learning **GraphQL and Angular**
 <h1 align="center">Portfolio: https://stellar-cocada-afbf7e.netlify.app/</h1>
-- 👨‍💻 Some of my projects are available at 
-[ 
-MERN Memories https://laughing-lamarr-75a52c.netlify.app 
-MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ 
-MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ 
-Counter-app by React JS https://keen-aryabhata-a48ca8.netlify.app/ 
-Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/]
+
 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A](https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A)
 
@@ -28,6 +22,14 @@ Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/]
 - 📄 Know about my experiences [https://www.linkedin.com/in/shakilkamrandev/](https://www.linkedin.com/in/shakilkamrandev/)
 
 - ⚡ My cup of Tea **Programming and Travelling**
+
+- 👨‍💻 Some of my projects are available at 
+[ 
+MERN Memories https://laughing-lamarr-75a52c.netlify.app 
+MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ 
+MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ 
+Counter-app by React JS https://keen-aryabhata-a48ca8.netlify.app/ 
+Conditional age check by react js https://elated-tereshkova-6e21a0.netlify.app/]
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webshakil" /> </p>
