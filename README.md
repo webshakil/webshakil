@@ -10,9 +10,9 @@
 - 🔭 I’m currently working as a Software Engineer at **Digital Life**
 
 - 🌱 I’m currently learning **GraphQL and Angular**
-
-- 👨‍💻 All of my projects are available at 
-[Portfolio: https://stellar-cocada-afbf7e.netlify.app/ 
+<h1 align="center">Portfolio: https://stellar-cocada-afbf7e.netlify.app/</h1>
+- 👨‍💻 Some of my projects are available at 
+[ 
 MERN Memories https://laughing-lamarr-75a52c.netlify.app 
 MERN SOCIAL LOGIN boilerplate https://sharp-lovelace-75b226.netlify.app/ 
 MERN ecommerce https://friendly-jang-5dbdbb.netlify.app/ 
