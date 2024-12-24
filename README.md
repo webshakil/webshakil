@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **GraphQL and Angular**
 - 
-<h1 align="center" target="_blank" rel="noopener">Portfolio: https://visionary-liger-e56b5b.netlify.app/</h1>
+<h1 align="center" target="_blank" rel="noopener">Portfolio: https://shakil-digital-life.netlify.app/</h1>
 
 
 - 📝 I regularly write articles on [https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A](https://www.youtube.com/channel/UClFMaWxT-X3p1Op0VH0yY-A)
